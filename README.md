@@ -33,10 +33,6 @@ pip install streamlit
 streamlit run app.py
 ```
 
-## Screenshot
-
-![Coffee Calculator Screenshot](screenshot.png)
-
 ## Author & Contributors
 
 - Author: [@iMythms](https://github.com/iMythms)
