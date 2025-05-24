@@ -42,7 +42,7 @@ with st.container():
             st.session_state.grams = 16
     with col2:
         if st.button("Two Cups"):
-            st.session_state.grams = 32
+            st.session_state.grams = 30
 
 st.markdown("<div style='margin-top: 32px;'></div>", unsafe_allow_html=True)
 
